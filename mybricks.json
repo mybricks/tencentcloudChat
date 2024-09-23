@@ -1,0 +1,11 @@
+{
+  "componentType": "MP",
+  "comAry": [
+    "./src/create/com.json",
+    "./src/getConversationList/com.json",
+    "./src/getMessageList/com.json",
+    "./src/sendMessage/com.json"
+  ],
+  "namespace": "mybricks.miniapp.tencentcloud.chat",
+  "tags": "react"
+}
